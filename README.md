@@ -160,9 +160,6 @@ My Github repositories index
 - [GISTEMP](https://github.com/mattbrepo/GISTEMP): Plotting [GISTEMP](https://data.giss.nasa.gov/gistemp/) data using [D3.js](https://d3js.org/) library.
 - [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI
 
-### Processing
-- [Chessboard](https://github.com/mattbrepo/Chessboard): Draw a chessboard (for calibration of a two cameras system for stereophotogrammetry)
-
 ### Python
 - [CompileSite](https://github.com/mattbrepo/CompileSite): Simple static site generator in Python. It uses [Notepad++](https://en.wikipedia.org/wiki/Notepad%2B%2B) language highlight file (_langs.model.xml_) to represent code syntax.
 - [Csv2h5p](https://github.com/mattbrepo/Csv2h5p): CSV to [H5P project](https://h5p.org/). Basically, it allows to create a H5P project starting from a CSV ("./data/input.tsv") containing the quiz data.
