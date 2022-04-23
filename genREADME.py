@@ -73,7 +73,7 @@ with open('README.md', 'w') as f:
   f.write('## Alphabetic order\n')
   repos.sort(key=lambda x: x.name)
   for idx, repo in enumerate(repos):
-    f.write(str(idx + 1) + getRepoItemStr(repo))
+    f.write(str(idx + 1) + '. ' + getRepoItemStr(repo))
   f.write('\n')
 
   f.write('## Ordered by year\n')
