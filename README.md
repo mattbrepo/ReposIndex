@@ -20,35 +20,36 @@ My Github repositories index
 11. [EchoServer](https://github.com/mattbrepo/EchoServer): Simple Echo Tcp Server
 12. [FSharpTools](https://github.com/mattbrepo/FSharpTools): Tools in F#
 13. [Factorial](https://github.com/mattbrepo/Factorial): Different ways to calculate the factorial:
-14. [FeatureExtractionTechnique](https://github.com/mattbrepo/FeatureExtractionTechnique): Feature extraction technique test.
-15. [Float-Double-Floating-Point](https://github.com/mattbrepo/Float-Double-Floating-Point): Study on Float/Double Floating-Point representation.
-16. [FoldExperiment](https://github.com/mattbrepo/FoldExperiment): Fold (aka reduce, accumulate, aggregate, compress, or inject) higher-order function experiments.
-17. [GISTEMP](https://github.com/mattbrepo/GISTEMP): Plotting [GISTEMP](https://data.giss.nasa.gov/gistemp/) data using [D3.js](https://d3js.org/) library.
-18. [GraphTheoryStudies](https://github.com/mattbrepo/GraphTheoryStudies): Generate a table with graphs and related tables
-19. [HammingWeight](https://github.com/mattbrepo/HammingWeight): Hamming weight algorithm test.
-20. [HttpProxyServer](https://github.com/mattbrepo/HttpProxyServer): Super simple Http Proxy Server to be put between an application and another Proxy Server that requires a type of identification not supported by the application.
-21. [ImageTool](https://github.com/mattbrepo/ImageTool): A command-line tool to compare, combine and view images. 
-22. [LenSplit](https://github.com/mattbrepo/LenSplit): A simple command-line tool to split a file in smaller chunks. 
-23. [MapReduceOnFiles](https://github.com/mattbrepo/MapReduceOnFiles): Test of [MapReduce idea](https://en.wikipedia.org/wiki/MapReduce) on text files. 
-24. [MathLibTest](https://github.com/mattbrepo/MathLibTest): Test of different C++ mathematical libraries:
-25. [MemorableExtensions](https://github.com/mattbrepo/MemorableExtensions): A collection of memorable [C# extensions](https://en.wikibooks.org/wiki/C_Sharp_Programming/Extension_methods):
-26. [MoleculeGraph](https://github.com/mattbrepo/MoleculeGraph): Molecule Graph test using Kamada-Kawai and Fruchterman-Reingold algorithms
-27. [NewtonMethod](https://github.com/mattbrepo/NewtonMethod): Testing Newton's method (root-finding algorithm) in Python
-28. [NumDiff](https://github.com/mattbrepo/NumDiff): Data comparison tool that calculates and displays the differences between two numeric files.
-29. [Numpadmouse](https://github.com/mattbrepo/Numpadmouse): Transforming the numeric keypad in a mouse.
-30. [OOPWhiteBoxBlackBox](https://github.com/mattbrepo/OOPWhiteBoxBlackBox): [OOP White-Box vs Black-Box](http://web.nchu.edu.tw/~jlu/classes/ooad/inherit.html)
-31. [OversamplingKNN](https://github.com/mattbrepo/OversamplingKNN): Experiments on [oversampling](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis) with [KNN classification model](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
-32. [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR)
-33. [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI
-34. [RunIt](https://github.com/mattbrepo/RunIt): Run a Windows application with given credentials
-35. [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file)
-36. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
-37. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk
-38. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression) experiment
-39. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
-40. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Implementation of the Dutch national flag problem.
-41. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell
-42. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python
+14. [FeatureExtractionTechnique](https://github.com/mattbrepo/FeatureExtractionTechnique): Feature extraction techniques (t-SNE, UMAP, PCA) test. 
+15. [FeatureSelectionBoruta](https://github.com/mattbrepo/FeatureSelectionBoruta): Feature selection with Boruta
+16. [Float-Double-Floating-Point](https://github.com/mattbrepo/Float-Double-Floating-Point): Study on Float/Double Floating-Point representation.
+17. [FoldExperiment](https://github.com/mattbrepo/FoldExperiment): Fold (aka reduce, accumulate, aggregate, compress, or inject) higher-order function experiments.
+18. [GISTEMP](https://github.com/mattbrepo/GISTEMP): Plotting [GISTEMP](https://data.giss.nasa.gov/gistemp/) data using [D3.js](https://d3js.org/) library.
+19. [GraphTheoryStudies](https://github.com/mattbrepo/GraphTheoryStudies): Generate a table with graphs and related tables
+20. [HammingWeight](https://github.com/mattbrepo/HammingWeight): Hamming weight algorithm test.
+21. [HttpProxyServer](https://github.com/mattbrepo/HttpProxyServer): Super simple Http Proxy Server to be put between an application and another Proxy Server that requires a type of identification not supported by the application.
+22. [ImageTool](https://github.com/mattbrepo/ImageTool): A command-line tool to compare, combine and view images. 
+23. [LenSplit](https://github.com/mattbrepo/LenSplit): A simple command-line tool to split a file in smaller chunks. 
+24. [MapReduceOnFiles](https://github.com/mattbrepo/MapReduceOnFiles): Test of [MapReduce idea](https://en.wikipedia.org/wiki/MapReduce) on text files. 
+25. [MathLibTest](https://github.com/mattbrepo/MathLibTest): Test of different C++ mathematical libraries:
+26. [MemorableExtensions](https://github.com/mattbrepo/MemorableExtensions): A collection of memorable [C# extensions](https://en.wikibooks.org/wiki/C_Sharp_Programming/Extension_methods):
+27. [MoleculeGraph](https://github.com/mattbrepo/MoleculeGraph): Molecule Graph test using Kamada-Kawai and Fruchterman-Reingold algorithms
+28. [NewtonMethod](https://github.com/mattbrepo/NewtonMethod): Testing Newton's method (root-finding algorithm) in Python
+29. [NumDiff](https://github.com/mattbrepo/NumDiff): Data comparison tool that calculates and displays the differences between two numeric files.
+30. [Numpadmouse](https://github.com/mattbrepo/Numpadmouse): Transforming the numeric keypad in a mouse.
+31. [OOPWhiteBoxBlackBox](https://github.com/mattbrepo/OOPWhiteBoxBlackBox): [OOP White-Box vs Black-Box](http://web.nchu.edu.tw/~jlu/classes/ooad/inherit.html)
+32. [OversamplingKNN](https://github.com/mattbrepo/OversamplingKNN): Experiments on [oversampling](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis) with [KNN classification model](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+33. [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR)
+34. [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI
+35. [RunIt](https://github.com/mattbrepo/RunIt): Run a Windows application with given credentials
+36. [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file)
+37. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
+38. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk
+39. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression) experiment
+40. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
+41. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Implementation of the Dutch national flag problem.
+42. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell
+43. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python
 
 ## Ordered by year
 
@@ -58,11 +59,12 @@ My Github repositories index
 - [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR)
 
 ### 2021
+- [FeatureSelectionBoruta](https://github.com/mattbrepo/FeatureSelectionBoruta): Feature selection with Boruta
 - [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file)
 - [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python
 
 ### 2019
-- [FeatureExtractionTechnique](https://github.com/mattbrepo/FeatureExtractionTechnique): Feature extraction technique test.
+- [FeatureExtractionTechnique](https://github.com/mattbrepo/FeatureExtractionTechnique): Feature extraction techniques (t-SNE, UMAP, PCA) test. 
 - [GISTEMP](https://github.com/mattbrepo/GISTEMP): Plotting [GISTEMP](https://data.giss.nasa.gov/gistemp/) data using [D3.js](https://d3js.org/) library.
 - [GraphTheoryStudies](https://github.com/mattbrepo/GraphTheoryStudies): Generate a table with graphs and related tables
 - [MoleculeGraph](https://github.com/mattbrepo/MoleculeGraph): Molecule Graph test using Kamada-Kawai and Fruchterman-Reingold algorithms
@@ -178,7 +180,8 @@ My Github repositories index
 
 ### R
 - [EDAMilex](https://github.com/mattbrepo/EDAMilex): Exploratory data analysis ([EDA](https://en.wikipedia.org/wiki/Exploratory_data_analysis)) on [Military Expenditure](https://www.sipri.org/databases/milex)
-- [FeatureExtractionTechnique](https://github.com/mattbrepo/FeatureExtractionTechnique): Feature extraction technique test.
+- [FeatureExtractionTechnique](https://github.com/mattbrepo/FeatureExtractionTechnique): Feature extraction techniques (t-SNE, UMAP, PCA) test. 
+- [FeatureSelectionBoruta](https://github.com/mattbrepo/FeatureSelectionBoruta): Feature selection with Boruta
 - [MoleculeGraph](https://github.com/mattbrepo/MoleculeGraph): Molecule Graph test using Kamada-Kawai and Fruchterman-Reingold algorithms
 - [OversamplingKNN](https://github.com/mattbrepo/OversamplingKNN): Experiments on [oversampling](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis) with [KNN classification model](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 
