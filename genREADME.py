@@ -77,7 +77,7 @@ with open('README.md', 'w') as f:
   f.write('\n')
 
   f.write('## Ordered by year\n')
-  repos.sort(key=lambda x: x.year)
+  repos.sort(key=lambda x: x.year, reverse=True)
   lastYearStr = ''
   for repo in repos:
     repoYearStr = str(repo.year)
