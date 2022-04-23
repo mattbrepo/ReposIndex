@@ -1,7 +1,7 @@
 # ReposIndex
 My Github repositories index
 
-- [Alphabetic order](##-alphabetic-order)
+- [Alphabetic order](#alphabetic-order)
 - Ordered by year
 - Ordered by language
 
