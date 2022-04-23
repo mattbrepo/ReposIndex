@@ -85,7 +85,7 @@ with open('README.md', 'w') as f:
       f.write('\n### ' + repoYearStr + '\n')
       lastYearStr = repoYearStr
 
-    f.write('- ' + repo.name + ': ' + repo.description + '\n')
+    f.write(getRepoItemStr(repo))
   f.write('\n')
 
   f.write('## Ordered by language\n')
@@ -97,6 +97,6 @@ with open('README.md', 'w') as f:
       f.write('\n### ' + repoLang + '\n')
       lastLang = repoLang
 
-    f.write('- ' + repo.name + ': ' + repo.description + '\n')
+    f.write(getRepoItemStr(repo))
   f.write('\n')
 
