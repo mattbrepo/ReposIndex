@@ -24,29 +24,30 @@ My Github repositories index
 15. [Float-Double-Floating-Point](https://github.com/mattbrepo/Float-Double-Floating-Point): Study on Float/Double Floating-Point representation.
 16. [FoldExperiment](https://github.com/mattbrepo/FoldExperiment): Fold (aka reduce, accumulate, aggregate, compress, or inject) higher-order function experiments.
 17. [GISTEMP](https://github.com/mattbrepo/GISTEMP): Plotting [GISTEMP](https://data.giss.nasa.gov/gistemp/) data using [D3.js](https://d3js.org/) library.
-18. [HammingWeight](https://github.com/mattbrepo/HammingWeight): Hamming weight algorithm test.
-19. [HttpProxyServer](https://github.com/mattbrepo/HttpProxyServer): Super simple Http Proxy Server to be put between an application and another Proxy Server that requires a type of identification not supported by the application.
-20. [ImageTool](https://github.com/mattbrepo/ImageTool): A command-line tool to compare, combine and view images. 
-21. [LenSplit](https://github.com/mattbrepo/LenSplit): A simple command-line tool to split a file in smaller chunks. 
-22. [MapReduceOnFiles](https://github.com/mattbrepo/MapReduceOnFiles): Test of [MapReduce idea](https://en.wikipedia.org/wiki/MapReduce) on text files. 
-23. [MathLibTest](https://github.com/mattbrepo/MathLibTest): Test of different C++ mathematical libraries:
-24. [MemorableExtensions](https://github.com/mattbrepo/MemorableExtensions): A collection of memorable [C# extensions](https://en.wikibooks.org/wiki/C_Sharp_Programming/Extension_methods):
-25. [MoleculeGraph](https://github.com/mattbrepo/MoleculeGraph): Molecule Graph test using Kamada-Kawai and Fruchterman-Reingold algorithms
-26. [NewtonMethod](https://github.com/mattbrepo/NewtonMethod): Testing Newton's method (root-finding algorithm) in Python
-27. [NumDiff](https://github.com/mattbrepo/NumDiff): Data comparison tool that calculates and displays the differences between two numeric files.
-28. [Numpadmouse](https://github.com/mattbrepo/Numpadmouse): Transforming the numeric keypad in a mouse.
-29. [OOPWhiteBoxBlackBox](https://github.com/mattbrepo/OOPWhiteBoxBlackBox): [OOP White-Box vs Black-Box](http://web.nchu.edu.tw/~jlu/classes/ooad/inherit.html)
-30. [OversamplingKNN](https://github.com/mattbrepo/OversamplingKNN): Experiments on [oversampling](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis) with [KNN classification model](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
-31. [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR)
-32. [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI
-33. [RunIt](https://github.com/mattbrepo/RunIt): Run a Windows application with given credentials
-34. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
-35. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk
-36. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression) experiment
-37. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
-38. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Implementation of the Dutch national flag problem.
-39. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell
-40. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python
+18. [GraphTheoryStudies](https://github.com/mattbrepo/GraphTheoryStudies): Generate a table with graphs and related tables
+19. [HammingWeight](https://github.com/mattbrepo/HammingWeight): Hamming weight algorithm test.
+20. [HttpProxyServer](https://github.com/mattbrepo/HttpProxyServer): Super simple Http Proxy Server to be put between an application and another Proxy Server that requires a type of identification not supported by the application.
+21. [ImageTool](https://github.com/mattbrepo/ImageTool): A command-line tool to compare, combine and view images. 
+22. [LenSplit](https://github.com/mattbrepo/LenSplit): A simple command-line tool to split a file in smaller chunks. 
+23. [MapReduceOnFiles](https://github.com/mattbrepo/MapReduceOnFiles): Test of [MapReduce idea](https://en.wikipedia.org/wiki/MapReduce) on text files. 
+24. [MathLibTest](https://github.com/mattbrepo/MathLibTest): Test of different C++ mathematical libraries:
+25. [MemorableExtensions](https://github.com/mattbrepo/MemorableExtensions): A collection of memorable [C# extensions](https://en.wikibooks.org/wiki/C_Sharp_Programming/Extension_methods):
+26. [MoleculeGraph](https://github.com/mattbrepo/MoleculeGraph): Molecule Graph test using Kamada-Kawai and Fruchterman-Reingold algorithms
+27. [NewtonMethod](https://github.com/mattbrepo/NewtonMethod): Testing Newton's method (root-finding algorithm) in Python
+28. [NumDiff](https://github.com/mattbrepo/NumDiff): Data comparison tool that calculates and displays the differences between two numeric files.
+29. [Numpadmouse](https://github.com/mattbrepo/Numpadmouse): Transforming the numeric keypad in a mouse.
+30. [OOPWhiteBoxBlackBox](https://github.com/mattbrepo/OOPWhiteBoxBlackBox): [OOP White-Box vs Black-Box](http://web.nchu.edu.tw/~jlu/classes/ooad/inherit.html)
+31. [OversamplingKNN](https://github.com/mattbrepo/OversamplingKNN): Experiments on [oversampling](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis) with [KNN classification model](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+32. [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR)
+33. [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI
+34. [RunIt](https://github.com/mattbrepo/RunIt): Run a Windows application with given credentials
+35. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
+36. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk
+37. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression) experiment
+38. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
+39. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Implementation of the Dutch national flag problem.
+40. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell
+41. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python
 
 ## Ordered by year
 
@@ -61,6 +62,7 @@ My Github repositories index
 ### 2019
 - [FeatureExtractionTechnique](https://github.com/mattbrepo/FeatureExtractionTechnique): Feature extraction technique test.
 - [GISTEMP](https://github.com/mattbrepo/GISTEMP): Plotting [GISTEMP](https://data.giss.nasa.gov/gistemp/) data using [D3.js](https://d3js.org/) library.
+- [GraphTheoryStudies](https://github.com/mattbrepo/GraphTheoryStudies): Generate a table with graphs and related tables
 - [MoleculeGraph](https://github.com/mattbrepo/MoleculeGraph): Molecule Graph test using Kamada-Kawai and Fruchterman-Reingold algorithms
 - [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
 
@@ -164,6 +166,7 @@ My Github repositories index
 - [CompileSite](https://github.com/mattbrepo/CompileSite): Simple static site generator in Python. It uses [Notepad++](https://en.wikipedia.org/wiki/Notepad%2B%2B) language highlight file (_langs.model.xml_) to represent code syntax.
 - [Csv2h5p](https://github.com/mattbrepo/Csv2h5p): CSV to [H5P project](https://h5p.org/). Basically, it allows to create a H5P project starting from a CSV ("./data/input.tsv") containing the quiz data.
 - [Dcm (Document content manager)](https://github.com/mattbrepo/Dcm): This a [Document management system](https://en.wikipedia.org/wiki/Document_management_system) to store, label and search personal documents on a single computer. 
+- [GraphTheoryStudies](https://github.com/mattbrepo/GraphTheoryStudies): Generate a table with graphs and related tables
 - [NewtonMethod](https://github.com/mattbrepo/NewtonMethod): Testing Newton's method (root-finding algorithm) in Python
 - [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR)
 - [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
