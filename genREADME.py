@@ -4,10 +4,10 @@
 import os
 
 class Repo(object):
-  def __init__(self, repoName, name, description, language, year):
+  def __init__(self, repoName, name, description, languages, year):
     self.name = name
     self.description = description
-    self.language = language
+    self.languages = languages
     self.year = year
     self.GithubURL = 'https://github.com/mattbrepo/' + repoName
 
@@ -17,18 +17,18 @@ def getRepo(repoName, readmeFilePath):
 
   name = content[0].replace('# ', '').replace('\n', '')
   description = content[1].replace('\n', '')
-  language = ''
+  language = []
   year = ''
   for str in content:
     if str.startswith('**Language'):
-      language = str.replace('**Language: ', '').replace('**', '').replace('\n', '')
+      languages = str.replace('**Language: ', '').replace('**', '').replace('\n', '').split(' / ')
     if str.startswith('**Start'):
       year = str.replace('**Start: ', '').replace('**', '').replace('\n', '')
 
   if year == '':
     print(readmeFilePath)
 
-  return Repo(repoName, name, description, language, int(year))
+  return Repo(repoName, name, description, languages, int(year))
 
 def getRepos():
   repos = []
@@ -89,14 +89,14 @@ with open('README.md', 'w') as f:
   f.write('\n')
 
   f.write('## Ordered by language\n')
-  repos.sort(key=lambda x: x.language)
-  lastLang = ''
-  for repo in repos:
-    repoLang = repo.language
-    if lastLang != repoLang:
-      f.write('\n### ' + repoLang + '\n')
-      lastLang = repoLang
-
-    f.write(getRepoItemStr(repo))
+  repos.sort(key=lambda x: x.name)
+  languages = { lang for repo in repos for lang in repo.languages}
+  languages = list(languages)
+  languages.sort()
+  for lang in languages:
+    f.write('\n### ' + lang + '\n')
+    for repo in repos:
+      if lang in repo.languages:
+        f.write(getRepoItemStr(repo))
   f.write('\n')
 
