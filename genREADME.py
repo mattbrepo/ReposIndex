@@ -4,13 +4,14 @@
 import os
 
 class Repo(object):
-  def __init__(self, name, description, language, year):
+  def __init__(self, repoName, name, description, language, year):
     self.name = name
     self.description = description
     self.language = language
     self.year = year
+    self.GithubURL = 'https://github.com/mattbrepo/' + repoName
 
-def getRepo(readmeFilePath):
+def getRepo(repoName, readmeFilePath):
   with open(readmeFilePath) as f:
     content = f.readlines()
 
@@ -27,25 +28,33 @@ def getRepo(readmeFilePath):
   if year == '':
     print(readmeFilePath)
 
-  return Repo(name, description, language, int(year))
+  return Repo(repoName, name, description, language, int(year))
 
 def getRepos():
   repos = []
   for (dirpath, dirnames, filenames) in os.walk('..'):
-    if dirpath.startswith('..\__'): # exclude unfinished repos
+    if dirpath.startswith('..\\__'): # exclude unfinished repos
       continue
-    if dirpath.startswith('..\ReposIndex'): # exclude this repo
+    if dirpath.startswith('..\\ReposIndex'): # exclude this repo
       continue
 
     for file in filenames:
       if file == 'README.md':
         readmeFilepath = os.path.join(dirpath, file)
         print('found: ' + readmeFilepath)
-        r = getRepo(readmeFilepath)
+        repoName = dirpath.replace('..\\', '')
+        r = getRepo(repoName, readmeFilepath)
         if r != None:
           repos.append(r)
 
   return repos
+
+def getRepoItemStr(repo):
+  return '- [' + repo.name + '](' + repo.GithubURL + '): ' + repo.description + '\n'
+
+#
+# Main
+#
 
 # get repos data
 repos = getRepos()
@@ -64,7 +73,7 @@ with open('README.md', 'w') as f:
   f.write('## Alphabetic order\n')
   repos.sort(key=lambda x: x.name)
   for repo in repos:
-    f.write('- ' + repo.name + ': ' + repo.description + '\n')
+    f.write(getRepoItemStr(repo))
   f.write('\n')
 
   f.write('## Ordered by year\n')
