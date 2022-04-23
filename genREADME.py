@@ -50,7 +50,7 @@ def getRepos():
   return repos
 
 def getRepoItemStr(repo):
-  return '- [' + repo.name + '](' + repo.GithubURL + '): ' + repo.description + '\n'
+  return '[' + repo.name + '](' + repo.GithubURL + '): ' + repo.description + '\n'
 
 #
 # Main
@@ -72,8 +72,8 @@ with open('README.md', 'w') as f:
 
   f.write('## Alphabetic order\n')
   repos.sort(key=lambda x: x.name)
-  for repo in repos:
-    f.write(getRepoItemStr(repo))
+  for idx, repo in enumerate(repos):
+    f.write(str(idx + 1) + getRepoItemStr(repo))
   f.write('\n')
 
   f.write('## Ordered by year\n')
@@ -85,7 +85,7 @@ with open('README.md', 'w') as f:
       f.write('\n### ' + repoYearStr + '\n')
       lastYearStr = repoYearStr
 
-    f.write(getRepoItemStr(repo))
+    f.write('- ' + getRepoItemStr(repo))
   f.write('\n')
 
   f.write('## Ordered by language\n')
@@ -97,6 +97,6 @@ with open('README.md', 'w') as f:
     f.write('\n### ' + lang + '\n')
     for repo in repos:
       if lang in repo.languages:
-        f.write(getRepoItemStr(repo))
+        f.write('- ' + getRepoItemStr(repo))
   f.write('\n')
 
