@@ -27,29 +27,30 @@ My Github repositories index
 18. [GISTEMP](https://github.com/mattbrepo/GISTEMP): Plotting [GISTEMP](https://data.giss.nasa.gov/gistemp/) data using [D3.js](https://d3js.org/) library.
 19. [GraphTheoryStudies](https://github.com/mattbrepo/GraphTheoryStudies): Generate a table with graphs and related tables
 20. [HammingWeight](https://github.com/mattbrepo/HammingWeight): Hamming weight algorithm test.
-21. [HttpProxyServer](https://github.com/mattbrepo/HttpProxyServer): Super simple Http Proxy Server to be put between an application and another Proxy Server that requires a type of identification not supported by the application.
-22. [ImageTool](https://github.com/mattbrepo/ImageTool): A command-line tool to compare, combine and view images. 
-23. [LenSplit](https://github.com/mattbrepo/LenSplit): A simple command-line tool to split a file in smaller chunks. 
-24. [MapReduceOnFiles](https://github.com/mattbrepo/MapReduceOnFiles): Test of [MapReduce idea](https://en.wikipedia.org/wiki/MapReduce) on text files. 
-25. [MathLibTest](https://github.com/mattbrepo/MathLibTest): Test of different C++ mathematical libraries:
-26. [MemorableExtensions](https://github.com/mattbrepo/MemorableExtensions): A collection of memorable [C# extensions](https://en.wikibooks.org/wiki/C_Sharp_Programming/Extension_methods):
-27. [MoleculeGraph](https://github.com/mattbrepo/MoleculeGraph): Molecule Graph test using Kamada-Kawai and Fruchterman-Reingold algorithms
-28. [NewtonMethod](https://github.com/mattbrepo/NewtonMethod): Testing Newton's method (root-finding algorithm) in Python
-29. [NumDiff](https://github.com/mattbrepo/NumDiff): Data comparison tool that calculates and displays the differences between two numeric files.
-30. [Numpadmouse](https://github.com/mattbrepo/Numpadmouse): Transforming the numeric keypad in a mouse.
-31. [OOPWhiteBoxBlackBox](https://github.com/mattbrepo/OOPWhiteBoxBlackBox): [OOP White-Box vs Black-Box](http://web.nchu.edu.tw/~jlu/classes/ooad/inherit.html)
-32. [OversamplingKNN](https://github.com/mattbrepo/OversamplingKNN): Experiments on [oversampling](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis) with [KNN classification model](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
-33. [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR)
-34. [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI
-35. [RunIt](https://github.com/mattbrepo/RunIt): Run a Windows application with given credentials
-36. [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file)
-37. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
-38. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk
-39. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression) experiment
-40. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
-41. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Implementation of the Dutch national flag problem.
-42. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell
-43. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python
+21. [HaskellTest](https://github.com/mattbrepo/HaskellTest): Various Haskell tests
+22. [HttpProxyServer](https://github.com/mattbrepo/HttpProxyServer): Super simple Http Proxy Server to be put between an application and another Proxy Server that requires a type of identification not supported by the application.
+23. [ImageTool](https://github.com/mattbrepo/ImageTool): A command-line tool to compare, combine and view images. 
+24. [LenSplit](https://github.com/mattbrepo/LenSplit): A simple command-line tool to split a file in smaller chunks. 
+25. [MapReduceOnFiles](https://github.com/mattbrepo/MapReduceOnFiles): Test of [MapReduce idea](https://en.wikipedia.org/wiki/MapReduce) on text files. 
+26. [MathLibTest](https://github.com/mattbrepo/MathLibTest): Test of different C++ mathematical libraries:
+27. [MemorableExtensions](https://github.com/mattbrepo/MemorableExtensions): A collection of memorable [C# extensions](https://en.wikibooks.org/wiki/C_Sharp_Programming/Extension_methods):
+28. [MoleculeGraph](https://github.com/mattbrepo/MoleculeGraph): Molecule Graph test using Kamada-Kawai and Fruchterman-Reingold algorithms
+29. [NewtonMethod](https://github.com/mattbrepo/NewtonMethod): Testing Newton's method (root-finding algorithm) in Python
+30. [NumDiff](https://github.com/mattbrepo/NumDiff): Data comparison tool that calculates and displays the differences between two numeric files.
+31. [Numpadmouse](https://github.com/mattbrepo/Numpadmouse): Transforming the numeric keypad in a mouse.
+32. [OOPWhiteBoxBlackBox](https://github.com/mattbrepo/OOPWhiteBoxBlackBox): [OOP White-Box vs Black-Box](http://web.nchu.edu.tw/~jlu/classes/ooad/inherit.html)
+33. [OversamplingKNN](https://github.com/mattbrepo/OversamplingKNN): Experiments on [oversampling](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis) with [KNN classification model](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+34. [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR)
+35. [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI
+36. [RunIt](https://github.com/mattbrepo/RunIt): Run a Windows application with given credentials
+37. [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file)
+38. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
+39. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk
+40. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression) experiment
+41. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
+42. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Implementation of the Dutch national flag problem.
+43. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell
+44. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python
 
 ## Ordered by year
 
@@ -91,6 +92,7 @@ My Github repositories index
 ### 2014
 - [Backtracking](https://github.com/mattbrepo/Backtracking): Generic [Backtracking function](https://en.wikipedia.org/wiki/Backtracking) in Haskell. [N-Queens problem](https://en.wikipedia.org/wiki/Eight_queens_puzzle) used as a test.
 - [CompileSite](https://github.com/mattbrepo/CompileSite): Simple static site generator in Python. It uses [Notepad++](https://en.wikipedia.org/wiki/Notepad%2B%2B) language highlight file (_langs.model.xml_) to represent code syntax.
+- [HaskellTest](https://github.com/mattbrepo/HaskellTest): Various Haskell tests
 - [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI
 - [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell
 
@@ -157,6 +159,7 @@ My Github repositories index
 ### Haskell
 - [Backtracking](https://github.com/mattbrepo/Backtracking): Generic [Backtracking function](https://en.wikipedia.org/wiki/Backtracking) in Haskell. [N-Queens problem](https://en.wikipedia.org/wiki/Eight_queens_puzzle) used as a test.
 - [FoldExperiment](https://github.com/mattbrepo/FoldExperiment): Fold (aka reduce, accumulate, aggregate, compress, or inject) higher-order function experiments.
+- [HaskellTest](https://github.com/mattbrepo/HaskellTest): Various Haskell tests
 - [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell
 
 ### Java
