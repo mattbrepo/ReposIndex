@@ -42,16 +42,17 @@ My Github repositories index
 33. [OOPWhiteBoxBlackBox](https://github.com/mattbrepo/OOPWhiteBoxBlackBox): [OOP White-Box vs Black-Box](http://web.nchu.edu.tw/~jlu/classes/ooad/inherit.html)
 34. [OversamplingKNN](https://github.com/mattbrepo/OversamplingKNN): Experiments on [oversampling](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis) with [KNN classification model](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 35. [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR)
-36. [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI
-37. [RunIt](https://github.com/mattbrepo/RunIt): Run a Windows application with given credentials
-38. [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file)
-39. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
-40. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk
-41. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression) experiment
-42. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
-43. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Implementation of the Dutch national flag problem.
-44. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell
-45. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python
+36. [RDKitUtils](https://github.com/mattbrepo/RDKitUtils): Utilities using [RDKit](https://www.rdkit.org/)
+37. [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI
+38. [RunIt](https://github.com/mattbrepo/RunIt): Run a Windows application with given credentials
+39. [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file)
+40. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
+41. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk
+42. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression) experiment
+43. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
+44. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Implementation of the Dutch national flag problem.
+45. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell
+46. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python
 
 ## Ordered by year
 
@@ -62,6 +63,7 @@ My Github repositories index
 
 ### 2021
 - [FeatureSelectionBoruta](https://github.com/mattbrepo/FeatureSelectionBoruta): Feature selection with Boruta
+- [RDKitUtils](https://github.com/mattbrepo/RDKitUtils): Utilities using [RDKit](https://www.rdkit.org/)
 - [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file)
 - [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python
 
@@ -178,6 +180,7 @@ My Github repositories index
 - [GraphTheoryStudies](https://github.com/mattbrepo/GraphTheoryStudies): Generate a table with graphs and related tables
 - [NewtonMethod](https://github.com/mattbrepo/NewtonMethod): Testing Newton's method (root-finding algorithm) in Python
 - [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR)
+- [RDKitUtils](https://github.com/mattbrepo/RDKitUtils): Utilities using [RDKit](https://www.rdkit.org/)
 - [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file)
 - [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
 - [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
