@@ -3,7 +3,7 @@ My Github repositories index
 
 - [Alphabetic order](#alphabetic-order)
 - [Ordered by year](#ordered-by-year)
-- [Ordered by programming language](#ordered-by-language)
+- [Ordered by programming language](#ordered-by-programming-language)
 
 
 ## Alphabetic order

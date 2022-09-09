@@ -67,7 +67,7 @@ with open('README.md', 'w') as f:
   
   f.write('- [Alphabetic order](#alphabetic-order)\n')
   f.write('- [Ordered by year](#ordered-by-year)\n')
-  f.write('- [Ordered by programming language](#ordered-by-language)\n')
+  f.write('- [Ordered by programming language](#ordered-by-programming-language)\n')
   f.write('\n\n')
 
   f.write('## Alphabetic order\n')
