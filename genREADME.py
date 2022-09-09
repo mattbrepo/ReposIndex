@@ -67,7 +67,7 @@ with open('README.md', 'w') as f:
   
   f.write('- [Alphabetic order](#alphabetic-order)\n')
   f.write('- [Ordered by year](#ordered-by-year)\n')
-  f.write('- [Ordered by language](#ordered-by-language)\n')
+  f.write('- [Ordered by programming language](#ordered-by-language)\n')
   f.write('\n\n')
 
   f.write('## Alphabetic order\n')
@@ -88,7 +88,7 @@ with open('README.md', 'w') as f:
     f.write('- ' + getRepoItemStr(repo))
   f.write('\n')
 
-  f.write('## Ordered by language\n')
+  f.write('## Ordered by programming language\n')
   repos.sort(key=lambda x: x.name)
   languages = { lang for repo in repos for lang in repo.languages}
   languages = list(languages)
