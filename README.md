@@ -55,13 +55,14 @@ My Github repositories index
 46. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk
 47. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression) experiment
 48. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
-49. [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi)
+49. [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi).
 50. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Implementation of the Dutch national flag problem.
 51. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell
 52. [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
 53. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python
 
 ## Ordered by year
+List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011), [2012](#2012), [2013](#2013), [2014](#2014), [2015](#2015), [2018](#2018), [2019](#2019), [2021](#2021), [2022](#2022)
 
 ### 2022
 - [AccuracyBalancedAccuracy](https://github.com/mattbrepo/AccuracyBalancedAccuracy): [Accuracy vs Balanced Accuracy](https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers) for binary classification
@@ -78,7 +79,7 @@ My Github repositories index
 - [FeatureSelectionBoruta](https://github.com/mattbrepo/FeatureSelectionBoruta): Feature selection with Boruta
 - [RDKitUtils](https://github.com/mattbrepo/RDKitUtils): Utilities using [RDKit](https://www.rdkit.org/)
 - [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file)
-- [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi)
+- [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi).
 - [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python
 
 ### 2019
@@ -143,6 +144,7 @@ My Github repositories index
 - [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk
 
 ## Ordered by programming language
+List: [C](#c), [C#](#c), [C++](#c), [F#](#f), [Haskell](#haskell), [Java](#java), [Javascript](#javascript), [Python](#python), [R](#r), [Ruby](#ruby), [Visual Basic 6](#visual-basic-6), [x86 Assembly](#x86-assembly)
 
 ### C
 - [LenSplit](https://github.com/mattbrepo/LenSplit): A simple command-line tool to split a file in smaller chunks. 
@@ -215,7 +217,7 @@ My Github repositories index
 - [OversamplingKNN](https://github.com/mattbrepo/OversamplingKNN): Experiments on [oversampling](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis) with [KNN classification model](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 
 ### Ruby
-- [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi)
+- [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi).
 
 ### Visual Basic 6
 - [RunIt](https://github.com/mattbrepo/RunIt): Run a Windows application with given credentials

@@ -78,6 +78,16 @@ with open('README.md', 'w') as f:
 
   f.write('## Ordered by year\n')
   repos.sort(key=lambda x: x.year, reverse=True)
+  
+  lastYearStr = ''
+  listYears = ''
+  for repo in repos:
+    repoYearStr = str(repo.year)
+    if lastYearStr != repoYearStr:
+      listYears = '[' + repoYearStr + '](#' + repoYearStr + '), ' + listYears
+      lastYearStr = repoYearStr
+  f.write('List: ' + listYears[:-2] + '\n')
+  
   lastYearStr = ''
   for repo in repos:
     repoYearStr = str(repo.year)
@@ -93,6 +103,12 @@ with open('README.md', 'w') as f:
   languages = { lang for repo in repos for lang in repo.languages}
   languages = list(languages)
   languages.sort()
+
+  listLang = ''
+  for lang in languages:
+    listLang = listLang + '[' + lang + '](#' + lang.lower().replace(' ', '-').replace('#', '').replace('+', '') + '), '
+  f.write('List: ' + listLang[:-2] + '\n')
+
   for lang in languages:
     f.write('\n### ' + lang + '\n')
     for repo in repos:
