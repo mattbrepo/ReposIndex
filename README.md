@@ -8,7 +8,7 @@ My Github repositories index
 
 ## Alphabetic order
 1. [AccuracyBalancedAccuracy](https://github.com/mattbrepo/AccuracyBalancedAccuracy): [Accuracy vs Balanced Accuracy](https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers) for binary classification
-2. [Backtracking](https://github.com/mattbrepo/Backtracking): Generic [Backtracking function](https://en.wikipedia.org/wiki/Backtracking) in Haskell. [N-Queens problem](https://en.wikipedia.org/wiki/Eight_queens_puzzle) used as a test.
+2. [Backtracking](https://github.com/mattbrepo/Backtracking): Generic [Backtracking function](https://en.wikipedia.org/wiki/Backtracking) in Haskell.
 3. [BridgeServer](https://github.com/mattbrepo/BridgeServer): Network Bridge Server.
 4. [Calder1](https://github.com/mattbrepo/Calder1): Personal [Document Management System](https://en.wikipedia.org/wiki/Document_management_system) to store, label and search personal documents on a single computer. 
 5. [Chessboard](https://github.com/mattbrepo/Chessboard): Draw a chessboard (for calibration of a two cameras system for stereophotogrammetry)
@@ -60,7 +60,8 @@ My Github repositories index
 51. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Implementation of the Dutch national flag problem.
 52. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell.
 53. [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
-54. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python
+54. [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
+55. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python
 
 ## Ordered by year
 List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011), [2012](#2012), [2013](#2013), [2014](#2014), [2015](#2015), [2017](#2017), [2018](#2018), [2019](#2019), [2021](#2021), [2022](#2022)
@@ -75,6 +76,7 @@ List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011),
 - [OversamplingKNN](https://github.com/mattbrepo/OversamplingKNN): Experiments on [oversampling](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis) with [KNN classification model](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 - [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR)
 - [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
+- [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
 
 ### 2021
 - [FeatureSelectionBoruta](https://github.com/mattbrepo/FeatureSelectionBoruta): Feature selection with Boruta
@@ -113,7 +115,7 @@ List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011),
 - [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Implementation of the Dutch national flag problem.
 
 ### 2014
-- [Backtracking](https://github.com/mattbrepo/Backtracking): Generic [Backtracking function](https://en.wikipedia.org/wiki/Backtracking) in Haskell. [N-Queens problem](https://en.wikipedia.org/wiki/Eight_queens_puzzle) used as a test.
+- [Backtracking](https://github.com/mattbrepo/Backtracking): Generic [Backtracking function](https://en.wikipedia.org/wiki/Backtracking) in Haskell.
 - [CompileSite](https://github.com/mattbrepo/CompileSite): Simple static site generator in Python. It uses [Notepad++](https://en.wikipedia.org/wiki/Notepad%2B%2B) language highlight file (_langs.model.xml_) to represent code syntax.
 - [HaskellTest](https://github.com/mattbrepo/HaskellTest): Various Haskell tests.
 - [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI
@@ -181,7 +183,7 @@ List: [C](#c), [C#](#c), [C++](#c), [F#](#f), [Haskell](#haskell), [Java](#java)
 - [FSharpTools](https://github.com/mattbrepo/FSharpTools): Tools in F#
 
 ### Haskell
-- [Backtracking](https://github.com/mattbrepo/Backtracking): Generic [Backtracking function](https://en.wikipedia.org/wiki/Backtracking) in Haskell. [N-Queens problem](https://en.wikipedia.org/wiki/Eight_queens_puzzle) used as a test.
+- [Backtracking](https://github.com/mattbrepo/Backtracking): Generic [Backtracking function](https://en.wikipedia.org/wiki/Backtracking) in Haskell.
 - [FoldExperiment](https://github.com/mattbrepo/FoldExperiment): Fold (aka reduce, accumulate, aggregate, compress, or inject) higher-order function experiments.
 - [HaskellTest](https://github.com/mattbrepo/HaskellTest): Various Haskell tests.
 - [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell.
@@ -194,6 +196,7 @@ List: [C](#c), [C#](#c), [C++](#c), [F#](#f), [Haskell](#haskell), [Java](#java)
 - [GISTEMP](https://github.com/mattbrepo/GISTEMP): Plotting [GISTEMP](https://data.giss.nasa.gov/gistemp/) data using [D3.js](https://d3js.org/) library.
 - [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI
 - [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
+- [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
 
 ### Python
 - [CompileSite](https://github.com/mattbrepo/CompileSite): Simple static site generator in Python. It uses [Notepad++](https://en.wikipedia.org/wiki/Notepad%2B%2B) language highlight file (_langs.model.xml_) to represent code syntax.
