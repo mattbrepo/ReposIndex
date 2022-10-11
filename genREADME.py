@@ -62,7 +62,7 @@ repos = getRepos()
 # generate README.md
 with open('README.md', 'w') as f:
   f.write('# ReposIndex\n')
-  f.write('My Github repositories index\n')
+  f.write('My Github repositories index.\n')
   f.write('\n')
   
   f.write('- [Alphabetic order](#alphabetic-order)\n')
