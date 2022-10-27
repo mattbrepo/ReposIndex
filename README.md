@@ -59,9 +59,10 @@ My Github repositories index.
 50. [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi).
 51. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Dutch national flag problem.
 52. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell.
-53. [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
-54. [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
-55. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python.
+53. [TetrahedronText3D](https://github.com/mattbrepo/TetrahedronText3D): Tetrahedron with text for 3D printing
+54. [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
+55. [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
+56. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python.
 
 ## Ordered by year
 List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011), [2012](#2012), [2013](#2013), [2014](#2014), [2015](#2015), [2017](#2017), [2018](#2018), [2019](#2019), [2021](#2021), [2022](#2022)
@@ -75,6 +76,7 @@ List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011),
 - [MontyHallSimulation](https://github.com/mattbrepo/MontyHallSimulation): Simulation of the [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem).
 - [OversamplingKNN](https://github.com/mattbrepo/OversamplingKNN): Experiments on [oversampling](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis) with [KNN classification model](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm).
 - [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR).
+- [TetrahedronText3D](https://github.com/mattbrepo/TetrahedronText3D): Tetrahedron with text for 3D printing
 - [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
 - [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
 
@@ -150,7 +152,7 @@ List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011),
 - [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk.
 
 ## Ordered by programming language
-List: [C](#c), [C#](#c), [C++](#c), [F#](#f), [Haskell](#haskell), [Java](#java), [Javascript](#javascript), [Python](#python), [R](#r), [Ruby](#ruby), [Visual Basic 6](#visual-basic-6), [x86 Assembly](#x86-assembly)
+List: [C](#c), [C#](#c), [C++](#c), [F#](#f), [Haskell](#haskell), [Java](#java), [Javascript](#javascript), [OpenSCAD](#openscad), [Python](#python), [R](#r), [Ruby](#ruby), [Visual Basic 6](#visual-basic-6), [x86 Assembly](#x86-assembly)
 
 ### C
 - [LenSplit](https://github.com/mattbrepo/LenSplit): A simple command-line tool to split a file in smaller chunks. 
@@ -197,6 +199,9 @@ List: [C](#c), [C#](#c), [C++](#c), [F#](#f), [Haskell](#haskell), [Java](#java)
 - [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI.
 - [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
 - [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
+
+### OpenSCAD
+- [TetrahedronText3D](https://github.com/mattbrepo/TetrahedronText3D): Tetrahedron with text for 3D printing
 
 ### Python
 - [CompileSite](https://github.com/mattbrepo/CompileSite): Simple static site generator in Python.
