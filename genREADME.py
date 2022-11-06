@@ -106,7 +106,7 @@ with open('README.md', 'w') as f:
 
   listLang = ''
   for lang in languages:
-    listLang = listLang + '[' + lang + '](#' + lang.lower().replace(' ', '-').replace('#', 'sharp').replace('+', '') + '), '
+    listLang = listLang + '[' + lang + '](#' + lang.lower().replace(' ', '-').replace('#', '').replace('+', '') + '), '
   f.write('List: ' + listLang[:-2] + '\n')
 
   for lang in languages:
