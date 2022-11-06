@@ -68,7 +68,7 @@ with open('README.md', 'w') as f:
   f.write('- [Alphabetic order](#alphabetic-order)\n')
   f.write('- [Ordered by year](#ordered-by-year)\n')
   f.write('- [Ordered by programming language](#ordered-by-programming-language)\n')
-  f.write('\n\n')
+  f.write('\n')
 
   f.write('## Alphabetic order\n')
   repos.sort(key=lambda x: x.name)
@@ -106,7 +106,7 @@ with open('README.md', 'w') as f:
 
   listLang = ''
   for lang in languages:
-    listLang = listLang + '[' + lang + '](#' + lang.lower().replace(' ', '-').replace('#', '').replace('+', '') + '), '
+    listLang = listLang + '[' + lang + '](#' + lang.lower().replace(' ', '-').replace('#', 'sharp').replace('+', '') + '), '
   f.write('List: ' + listLang[:-2] + '\n')
 
   for lang in languages:

@@ -5,7 +5,6 @@ My Github repositories index.
 - [Ordered by year](#ordered-by-year)
 - [Ordered by programming language](#ordered-by-programming-language)
 
-
 ## Alphabetic order
 1. [AccuracyBalancedAccuracy](https://github.com/mattbrepo/AccuracyBalancedAccuracy): [Accuracy vs Balanced Accuracy](https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers) for binary classification.
 2. [Backtracking](https://github.com/mattbrepo/Backtracking): Generic [Backtracking function](https://en.wikipedia.org/wiki/Backtracking) in Haskell.
@@ -152,11 +151,7 @@ List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011),
 - [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk.
 
 ## Ordered by programming language
-List: [C](#c), [C#](#c), [C++](#c), [F#](#f), [Haskell](#haskell), [Java](#java), [Javascript](#javascript), [OpenSCAD](#openscad), [Python](#python), [R](#r), [Ruby](#ruby), [Visual Basic 6](#visual-basic-6), [x86 Assembly](#x86-assembly)
-
-### C
-- [LenSplit](https://github.com/mattbrepo/LenSplit): A simple command-line tool to split a file in smaller chunks. 
-- [Numpadmouse](https://github.com/mattbrepo/Numpadmouse): Transforming the numeric keypad in a mouse.
+List: [C#](#csharp), [C/C++](#c/c), [F#](#fsharp), [Haskell](#haskell), [Java](#java), [Javascript](#javascript), [OpenSCAD](#openscad), [Python](#python), [R](#r), [Ruby](#ruby), [Visual Basic 6](#visual-basic-6), [x86 Assembly](#x86-assembly)
 
 ### C#
 - [BridgeServer](https://github.com/mattbrepo/BridgeServer): Network Bridge Server.
@@ -177,9 +172,11 @@ List: [C](#c), [C#](#c), [C++](#c), [F#](#f), [Haskell](#haskell), [Java](#java)
 - [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A regular expression experiment.
 - [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Dutch national flag problem.
 
-### C++
+### C/C++
 - [HammingWeight](https://github.com/mattbrepo/HammingWeight): Hamming weight algorithm test.
+- [LenSplit](https://github.com/mattbrepo/LenSplit): A simple command-line tool to split a file in smaller chunks. 
 - [MathLibTest](https://github.com/mattbrepo/MathLibTest): Test of different C++ mathematical libraries.
+- [Numpadmouse](https://github.com/mattbrepo/Numpadmouse): Transforming the numeric keypad in a mouse.
 
 ### F#
 - [FSharpTools](https://github.com/mattbrepo/FSharpTools): Tools in F#
