@@ -151,7 +151,7 @@ List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011),
 - [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk.
 
 ## Ordered by programming language
-List: [C#](#csharp), [C/C++](#c/c), [F#](#fsharp), [Haskell](#haskell), [Java](#java), [Javascript](#javascript), [OpenSCAD](#openscad), [Python](#python), [R](#r), [Ruby](#ruby), [Visual Basic 6](#visual-basic-6), [x86 Assembly](#x86-assembly)
+List: [C#](#c), [C/C++](#c/c), [F#](#f), [Haskell](#haskell), [Java](#java), [Javascript](#javascript), [OpenSCAD](#openscad), [Python](#python), [R](#r), [Ruby](#ruby), [Visual Basic 6](#visual-basic-6), [x86 Assembly](#x86-assembly)
 
 ### C#
 - [BridgeServer](https://github.com/mattbrepo/BridgeServer): Network Bridge Server.
