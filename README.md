@@ -50,26 +50,28 @@ My Github repositories index.
 42. [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR).
 43. [RDKitUtils](https://github.com/mattbrepo/RDKitUtils): Utilities using [RDKit](https://www.rdkit.org/).
 44. [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI.
-45. [RunIt](https://github.com/mattbrepo/RunIt): Run a Windows application with given credentials.
-46. [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file).
-47. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
-48. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk.
-49. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A regular expression experiment.
-50. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
-51. [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi).
-52. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Dutch national flag problem.
-53. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell.
-54. [TetrahedronText3D](https://github.com/mattbrepo/TetrahedronText3D): Tetrahedron with text for 3D printing
-55. [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
-56. [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/).
-57. [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
-58. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python.
+45. [RandomSin](https://github.com/mattbrepo/RandomSin): Analysis on a random generation function based on sine.
+46. [RunIt](https://github.com/mattbrepo/RunIt): Run a Windows application with given credentials.
+47. [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file).
+48. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
+49. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk.
+50. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A regular expression experiment.
+51. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
+52. [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi).
+53. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Dutch national flag problem.
+54. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell.
+55. [TetrahedronText3D](https://github.com/mattbrepo/TetrahedronText3D): Tetrahedron with text for 3D printing
+56. [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
+57. [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/).
+58. [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
+59. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python.
 
 ## Ordered by year
 List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011), [2012](#2012), [2013](#2013), [2014](#2014), [2015](#2015), [2017](#2017), [2018](#2018), [2019](#2019), [2021](#2021), [2022](#2022), [2023](#2023)
 
 ### 2023
 - [LoadedCoinKellyCriterion](https://github.com/mattbrepo/LoadedCoinKellyCriterion): Simulation with a loaded coin.
+- [RandomSin](https://github.com/mattbrepo/RandomSin): Analysis on a random generation function based on sine.
 - [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/).
 
 ### 2022
@@ -217,6 +219,7 @@ List: [C#](#c), [C/C++](#cc), [F#](#f), [Haskell](#haskell), [Java](#java), [Jav
 - [NewtonMethod](https://github.com/mattbrepo/NewtonMethod): Testing Newton's method (root-finding algorithm) in Python.
 - [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR).
 - [RDKitUtils](https://github.com/mattbrepo/RDKitUtils): Utilities using [RDKit](https://www.rdkit.org/).
+- [RandomSin](https://github.com/mattbrepo/RandomSin): Analysis on a random generation function based on sine.
 - [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file).
 - [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
 - [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
