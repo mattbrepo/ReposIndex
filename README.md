@@ -56,7 +56,7 @@ My Github repositories index.
 48. [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file).
 49. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
 50. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk.
-51. [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test Laravel and Vue.
+51. [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/).
 52. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A regular expression experiment.
 53. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
 54. [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi).
@@ -75,7 +75,7 @@ List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011),
 - [ChairAngles](https://github.com/mattbrepo/ChairAngles): A few calculations for a folding chair project.
 - [LoadedCoinKellyCriterion](https://github.com/mattbrepo/LoadedCoinKellyCriterion): Simulation with a loaded coin.
 - [RandomSin](https://github.com/mattbrepo/RandomSin): Analysis on a random generation function based on sine.
-- [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test Laravel and Vue.
+- [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/).
 - [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/).
 
 ### 2022
@@ -206,7 +206,7 @@ List: [C#](#c), [C/C++](#cc), [F#](#f), [Haskell](#haskell), [Java](#java), [Jav
 - [ColorWheelTrajectoryGradient](https://github.com/mattbrepo/ColorWheelTrajectoryGradient): A study on the color wheel and the gradient derived by interpolating three colors.
 - [GISTEMP](https://github.com/mattbrepo/GISTEMP): Plotting [GISTEMP](https://data.giss.nasa.gov/gistemp/) data using [D3.js](https://d3js.org/) library.
 - [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI.
-- [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test Laravel and Vue.
+- [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/).
 - [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
 - [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
 
@@ -214,7 +214,7 @@ List: [C#](#c), [C/C++](#cc), [F#](#f), [Haskell](#haskell), [Java](#java), [Jav
 - [TetrahedronText3D](https://github.com/mattbrepo/TetrahedronText3D): Tetrahedron with text for 3D printing
 
 ### PHP
-- [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test Laravel and Vue.
+- [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/).
 
 ### Python
 - [ChairAngles](https://github.com/mattbrepo/ChairAngles): A few calculations for a folding chair project.
