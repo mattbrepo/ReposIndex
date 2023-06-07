@@ -55,19 +55,20 @@ My Github repositories index.
 47. [RandomSin](https://github.com/mattbrepo/RandomSin): Analysis on a random generation function based on sine.
 48. [RunIt](https://github.com/mattbrepo/RunIt): Run a Windows application with given credentials.
 49. [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file).
-50. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
-51. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk.
-52. [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/).
-53. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A regular expression experiment.
-54. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
-55. [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi).
-56. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Dutch national flag problem.
-57. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell.
-58. [TetrahedronText3D](https://github.com/mattbrepo/TetrahedronText3D): Tetrahedron with text for 3D printing
-59. [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
-60. [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/).
-61. [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
-62. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python.
+50. [SQLStatementLength](https://github.com/mattbrepo/SQLStatementLength): Determine the length of a variable SQL statement.
+51. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
+52. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk.
+53. [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/).
+54. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A regular expression experiment.
+55. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
+56. [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi).
+57. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Dutch national flag problem.
+58. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell.
+59. [TetrahedronText3D](https://github.com/mattbrepo/TetrahedronText3D): Tetrahedron with text for 3D printing
+60. [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
+61. [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/) with a [tkinter](https://docs.python.org/3/library/tkinter.html) gui.
+62. [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
+63. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python.
 
 ## Ordered by year
 List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011), [2012](#2012), [2013](#2013), [2014](#2014), [2015](#2015), [2017](#2017), [2018](#2018), [2019](#2019), [2021](#2021), [2022](#2022), [2023](#2023)
@@ -77,8 +78,9 @@ List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011),
 - [FastAPIDocker](https://github.com/mattbrepo/FastAPIDocker): A project to test [FastAPI](https://fastapi.tiangolo.com/) and [Docker](https://www.docker.com/).
 - [LoadedCoinKellyCriterion](https://github.com/mattbrepo/LoadedCoinKellyCriterion): Simulation with a loaded coin.
 - [RandomSin](https://github.com/mattbrepo/RandomSin): Analysis on a random generation function based on sine.
+- [SQLStatementLength](https://github.com/mattbrepo/SQLStatementLength): Determine the length of a variable SQL statement.
 - [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/).
-- [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/).
+- [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/) with a [tkinter](https://docs.python.org/3/library/tkinter.html) gui.
 
 ### 2022
 - [AccuracyBalancedAccuracy](https://github.com/mattbrepo/AccuracyBalancedAccuracy): [Accuracy vs Balanced Accuracy](https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers) for binary classification.
@@ -233,9 +235,10 @@ List: [C#](#c), [C/C++](#cc), [F#](#f), [Haskell](#haskell), [Java](#java), [Jav
 - [RDKitUtils](https://github.com/mattbrepo/RDKitUtils): Utilities using [RDKit](https://www.rdkit.org/).
 - [RandomSin](https://github.com/mattbrepo/RandomSin): Analysis on a random generation function based on sine.
 - [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file).
+- [SQLStatementLength](https://github.com/mattbrepo/SQLStatementLength): Determine the length of a variable SQL statement.
 - [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
 - [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
-- [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/).
+- [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/) with a [tkinter](https://docs.python.org/3/library/tkinter.html) gui.
 - [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python.
 
 ### R
