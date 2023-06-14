@@ -65,9 +65,9 @@ with open('README.md', 'w') as f:
   f.write('My Github repositories index.\n')
   f.write('\n')
   
-  f.write('- [Alphabetic order](#alphabetic-order)\n')
   f.write('- [Ordered by year](#ordered-by-year)\n')
   f.write('- [Ordered by programming language](#ordered-by-programming-language)\n')
+  f.write('- [Alphabetic order](#alphabetic-order)\n')
   f.write('\n')
 
   f.write('## Alphabetic order\n')

@@ -1,9 +1,9 @@
 # ReposIndex
 My Github repositories index.
 
-- [Alphabetic order](#alphabetic-order)
 - [Ordered by year](#ordered-by-year)
 - [Ordered by programming language](#ordered-by-programming-language)
+- [Alphabetic order](#alphabetic-order)
 
 ## Alphabetic order
 1. [AccuracyBalancedAccuracy](https://github.com/mattbrepo/AccuracyBalancedAccuracy): [Accuracy vs Balanced Accuracy](https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers) for binary classification.
@@ -49,26 +49,27 @@ My Github repositories index.
 41. [Numpadmouse](https://github.com/mattbrepo/Numpadmouse): Transforming the numeric keypad in a mouse.
 42. [OOPWhiteBoxBlackBox](https://github.com/mattbrepo/OOPWhiteBoxBlackBox): OOP White box reuse vs Black box reuse.
 43. [OversamplingKNN](https://github.com/mattbrepo/OversamplingKNN): Experiments on [oversampling](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis) with [KNN classification model](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm).
-44. [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR).
-45. [RDKitUtils](https://github.com/mattbrepo/RDKitUtils): Utilities using [RDKit](https://www.rdkit.org/).
-46. [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI.
-47. [RandomSin](https://github.com/mattbrepo/RandomSin): Analysis on a random generation function based on sine.
-48. [RunIt](https://github.com/mattbrepo/RunIt): Run a Windows application with given credentials.
-49. [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file).
-50. [SQLStatementLength](https://github.com/mattbrepo/SQLStatementLength): Determine the length of a variable SQL statement.
-51. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
-52. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk.
-53. [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/).
-54. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A regular expression experiment.
-55. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
-56. [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi).
-57. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Dutch national flag problem.
-58. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell.
-59. [TetrahedronText3D](https://github.com/mattbrepo/TetrahedronText3D): Tetrahedron with text for 3D printing
-60. [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
-61. [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/) with a [tkinter](https://docs.python.org/3/library/tkinter.html) gui.
-62. [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
-63. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python.
+44. [PopulationSim](https://github.com/mattbrepo/PopulationSim): A simulation on a population using [Pygame](https://www.pygame.org/).
+45. [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR).
+46. [RDKitUtils](https://github.com/mattbrepo/RDKitUtils): Utilities using [RDKit](https://www.rdkit.org/).
+47. [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI.
+48. [RandomSin](https://github.com/mattbrepo/RandomSin): Analysis on a random generation function based on sine.
+49. [RunIt](https://github.com/mattbrepo/RunIt): Run a Windows application with given credentials.
+50. [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file).
+51. [SQLStatementLength](https://github.com/mattbrepo/SQLStatementLength): Determine the length of a variable SQL statement.
+52. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
+53. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk.
+54. [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/).
+55. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A regular expression experiment.
+56. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
+57. [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi).
+58. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Dutch national flag problem.
+59. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell.
+60. [TetrahedronText3D](https://github.com/mattbrepo/TetrahedronText3D): Tetrahedron with text for 3D printing
+61. [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
+62. [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/) with a [tkinter](https://docs.python.org/3/library/tkinter.html) gui.
+63. [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
+64. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python.
 
 ## Ordered by year
 List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011), [2012](#2012), [2013](#2013), [2014](#2014), [2015](#2015), [2017](#2017), [2018](#2018), [2019](#2019), [2021](#2021), [2022](#2022), [2023](#2023)
@@ -77,6 +78,7 @@ List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011),
 - [ChairAngles](https://github.com/mattbrepo/ChairAngles): A few calculations for a folding chair project.
 - [FastAPIDocker](https://github.com/mattbrepo/FastAPIDocker): A project to test [FastAPI](https://fastapi.tiangolo.com/) and [Docker](https://www.docker.com/).
 - [LoadedCoinKellyCriterion](https://github.com/mattbrepo/LoadedCoinKellyCriterion): Simulation with a loaded coin.
+- [PopulationSim](https://github.com/mattbrepo/PopulationSim): A simulation on a population using [Pygame](https://www.pygame.org/).
 - [RandomSin](https://github.com/mattbrepo/RandomSin): Analysis on a random generation function based on sine.
 - [SQLStatementLength](https://github.com/mattbrepo/SQLStatementLength): Determine the length of a variable SQL statement.
 - [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/).
@@ -231,6 +233,7 @@ List: [C#](#c), [C/C++](#cc), [F#](#f), [Haskell](#haskell), [Java](#java), [Jav
 - [MontyHallSimulation](https://github.com/mattbrepo/MontyHallSimulation): Simulation of the [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem).
 - [NLPNaiveBayesClassifier](https://github.com/mattbrepo/NLPNaiveBayesClassifier): A simple [Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) for a [Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) problem.
 - [NewtonMethod](https://github.com/mattbrepo/NewtonMethod): Testing Newton's method (root-finding algorithm) in Python.
+- [PopulationSim](https://github.com/mattbrepo/PopulationSim): A simulation on a population using [Pygame](https://www.pygame.org/).
 - [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR).
 - [RDKitUtils](https://github.com/mattbrepo/RDKitUtils): Utilities using [RDKit](https://www.rdkit.org/).
 - [RandomSin](https://github.com/mattbrepo/RandomSin): Analysis on a random generation function based on sine.
