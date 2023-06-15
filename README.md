@@ -36,40 +36,41 @@ My Github repositories index.
 28. [HaskellTest](https://github.com/mattbrepo/HaskellTest): Various Haskell tests.
 29. [HttpProxyServer](https://github.com/mattbrepo/HttpProxyServer): Super simple Http Proxy Server to be put between an application and another Proxy Server that requires a type of identification not supported by the application.
 30. [ImageTool](https://github.com/mattbrepo/ImageTool): A command-line tool to compare, combine and view images. 
-31. [LenSplit](https://github.com/mattbrepo/LenSplit): A simple command-line tool to split a file in smaller chunks. 
-32. [LoadedCoinKellyCriterion](https://github.com/mattbrepo/LoadedCoinKellyCriterion): Simulation with a loaded coin.
-33. [MapReduceOnFiles](https://github.com/mattbrepo/MapReduceOnFiles): Test of [MapReduce idea](https://en.wikipedia.org/wiki/MapReduce) on text files. 
-34. [MathLibTest](https://github.com/mattbrepo/MathLibTest): Test of different C++ mathematical libraries.
-35. [MemorableExtensions](https://github.com/mattbrepo/MemorableExtensions): A collection of memorable [C# extensions](https://en.wikibooks.org/wiki/C_Sharp_Programming/Extension_methods).
-36. [MoleculeGraph](https://github.com/mattbrepo/MoleculeGraph): Molecule Graph test using Kamada-Kawai and Fruchterman-Reingold algorithms.
-37. [MontyHallSimulation](https://github.com/mattbrepo/MontyHallSimulation): Simulation of the [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem).
-38. [NLPNaiveBayesClassifier](https://github.com/mattbrepo/NLPNaiveBayesClassifier): A simple [Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) for a [Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) problem.
-39. [NewtonMethod](https://github.com/mattbrepo/NewtonMethod): Testing Newton's method (root-finding algorithm) in Python.
-40. [NumDiff](https://github.com/mattbrepo/NumDiff): Data comparison tool that calculates and displays the differences between two numeric files.
-41. [Numpadmouse](https://github.com/mattbrepo/Numpadmouse): Transforming the numeric keypad in a mouse.
-42. [OOPWhiteBoxBlackBox](https://github.com/mattbrepo/OOPWhiteBoxBlackBox): OOP White box reuse vs Black box reuse.
-43. [OversamplingKNN](https://github.com/mattbrepo/OversamplingKNN): Experiments on [oversampling](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis) with [KNN classification model](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm).
-44. [PopulationSim](https://github.com/mattbrepo/PopulationSim): A simulation on a population using [Pygame](https://www.pygame.org/).
-45. [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR).
-46. [RDKitUtils](https://github.com/mattbrepo/RDKitUtils): Utilities using [RDKit](https://www.rdkit.org/).
-47. [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI.
-48. [RandomSin](https://github.com/mattbrepo/RandomSin): Analysis on a random generation function based on sine.
-49. [RunIt](https://github.com/mattbrepo/RunIt): Run a Windows application with given credentials.
-50. [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file).
-51. [SQLStatementLength](https://github.com/mattbrepo/SQLStatementLength): Determine the length of a variable SQL statement.
-52. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
-53. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk.
-54. [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/).
-55. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A regular expression experiment.
-56. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
-57. [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi).
-58. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Dutch national flag problem.
-59. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell.
-60. [TetrahedronText3D](https://github.com/mattbrepo/TetrahedronText3D): Tetrahedron with text for 3D printing
-61. [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
-62. [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/) with a [tkinter](https://docs.python.org/3/library/tkinter.html) gui.
-63. [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
-64. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python.
+31. [JavaExercises](https://github.com/mattbrepo/JavaExercises): Simple Java programs I found on an old hard drive.
+32. [LenSplit](https://github.com/mattbrepo/LenSplit): A simple command-line tool to split a file in smaller chunks. 
+33. [LoadedCoinKellyCriterion](https://github.com/mattbrepo/LoadedCoinKellyCriterion): Simulation with a loaded coin.
+34. [MapReduceOnFiles](https://github.com/mattbrepo/MapReduceOnFiles): Test of [MapReduce idea](https://en.wikipedia.org/wiki/MapReduce) on text files. 
+35. [MathLibTest](https://github.com/mattbrepo/MathLibTest): Test of different C++ mathematical libraries.
+36. [MemorableExtensions](https://github.com/mattbrepo/MemorableExtensions): A collection of memorable [C# extensions](https://en.wikibooks.org/wiki/C_Sharp_Programming/Extension_methods).
+37. [MoleculeGraph](https://github.com/mattbrepo/MoleculeGraph): Molecule Graph test using Kamada-Kawai and Fruchterman-Reingold algorithms.
+38. [MontyHallSimulation](https://github.com/mattbrepo/MontyHallSimulation): Simulation of the [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem).
+39. [NLPNaiveBayesClassifier](https://github.com/mattbrepo/NLPNaiveBayesClassifier): A simple [Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) for a [Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) problem.
+40. [NewtonMethod](https://github.com/mattbrepo/NewtonMethod): Testing Newton's method (root-finding algorithm) in Python.
+41. [NumDiff](https://github.com/mattbrepo/NumDiff): Data comparison tool that calculates and displays the differences between two numeric files.
+42. [Numpadmouse](https://github.com/mattbrepo/Numpadmouse): Transforming the numeric keypad in a mouse.
+43. [OOPWhiteBoxBlackBox](https://github.com/mattbrepo/OOPWhiteBoxBlackBox): OOP White box reuse vs Black box reuse.
+44. [OversamplingKNN](https://github.com/mattbrepo/OversamplingKNN): Experiments on [oversampling](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis) with [KNN classification model](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm).
+45. [PopulationSim](https://github.com/mattbrepo/PopulationSim): A simulation on a population using [Pygame](https://www.pygame.org/).
+46. [PySRTest](https://github.com/mattbrepo/PySRTest): Experiments with [PySR](https://github.com/MilesCranmer/PySR).
+47. [RDKitUtils](https://github.com/mattbrepo/RDKitUtils): Utilities using [RDKit](https://www.rdkit.org/).
+48. [RadialTouchScreenInput](https://github.com/mattbrepo/RadialTouchScreenInput): Prototype for a new Touchscreen input UI.
+49. [RandomSin](https://github.com/mattbrepo/RandomSin): Analysis on a random generation function based on sine.
+50. [RunIt](https://github.com/mattbrepo/RunIt): Run a Windows application with given credentials.
+51. [SDFUtilities](https://github.com/mattbrepo/SDFUtilities): Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file).
+52. [SQLStatementLength](https://github.com/mattbrepo/SQLStatementLength): Determine the length of a variable SQL statement.
+53. [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
+54. [SerialID](https://github.com/mattbrepo/SerialID): Change the Serial ID of C: disk.
+55. [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/).
+56. [SimpleRegEx](https://github.com/mattbrepo/SimpleRegEx): A regular expression experiment.
+57. [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
+58. [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi).
+59. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Dutch national flag problem.
+60. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell.
+61. [TetrahedronText3D](https://github.com/mattbrepo/TetrahedronText3D): Tetrahedron with text for 3D printing
+62. [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
+63. [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/) with a [tkinter](https://docs.python.org/3/library/tkinter.html) gui.
+64. [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
+65. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python.
 
 ## Ordered by year
 List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011), [2012](#2012), [2013](#2013), [2014](#2014), [2015](#2015), [2017](#2017), [2018](#2018), [2019](#2019), [2021](#2021), [2022](#2022), [2023](#2023)
@@ -143,6 +144,7 @@ List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011),
 ### 2013
 - [DesignPatterns_GoF](https://github.com/mattbrepo/DesignPatterns_GoF): Examples from "Design Patterns: Elements of Reusable Object-Oriented Software" by the Gang of Four (GoF) in C#.
 - [FSharpTools](https://github.com/mattbrepo/FSharpTools): Tools in F#
+- [JavaExercises](https://github.com/mattbrepo/JavaExercises): Simple Java programs I found on an old hard drive.
 
 ### 2012
 - [HttpProxyServer](https://github.com/mattbrepo/HttpProxyServer): Super simple Http Proxy Server to be put between an application and another Proxy Server that requires a type of identification not supported by the application.
@@ -207,6 +209,7 @@ List: [C#](#c), [C/C++](#cc), [F#](#f), [Haskell](#haskell), [Java](#java), [Jav
 
 ### Java
 - [Chessboard](https://github.com/mattbrepo/Chessboard): Draw a chessboard (for calibration of a two cameras system for stereophotogrammetry).
+- [JavaExercises](https://github.com/mattbrepo/JavaExercises): Simple Java programs I found on an old hard drive.
 
 ### Javascript
 - [ColorWheelTrajectoryGradient](https://github.com/mattbrepo/ColorWheelTrajectoryGradient): A study on the color wheel and the gradient derived by interpolating three colors.
