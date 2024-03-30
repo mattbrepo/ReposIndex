@@ -13,7 +13,7 @@ My Github repositories index.
 5. [ChairAngles](https://github.com/mattbrepo/ChairAngles): A few calculations for a folding chair project.
 6. [Chessboard](https://github.com/mattbrepo/Chessboard): Draw a chessboard (for calibration of a two cameras system for stereophotogrammetry).
 7. [ClockIn](https://github.com/mattbrepo/ClockIn): Super simple utility to track your time.
-8. [ClusterBinaryData](https://github.com/mattbrepo/ClusterBinaryData): Cluster on binary data (also using specific distances)
+8. [ClusterBinaryData](https://github.com/mattbrepo/ClusterBinaryData): Cluster on binary data (also using specific distances).
 9. [ColorWheelTrajectoryGradient](https://github.com/mattbrepo/ColorWheelTrajectoryGradient): A study on the color wheel and the gradient derived by interpolating three colors.
 10. [CompileSite](https://github.com/mattbrepo/CompileSite): Simple static site generator in Python.
 11. [Csv2h5p](https://github.com/mattbrepo/Csv2h5p): CSV to [H5P project](https://h5p.org/). Basically, it allows to create a H5P project starting from a CSV ("./data/input.tsv") containing the quiz data.
@@ -38,13 +38,13 @@ My Github repositories index.
 30. [HttpProxyServer](https://github.com/mattbrepo/HttpProxyServer): Super simple Http Proxy Server to be put between an application and another Proxy Server that requires a type of identification not supported by the application.
 31. [ImageTool](https://github.com/mattbrepo/ImageTool): A command-line tool to compare, combine and view images. 
 32. [JavaExercises](https://github.com/mattbrepo/JavaExercises): Simple Java programs I found on an old hard drive.
-33. [LBYL_vs_EAFP](https://github.com/mattbrepo/LBYL_vs_EAFP): LBYL vs EAFP
+33. [LBYL_vs_EAFP](https://github.com/mattbrepo/LBYL_vs_EAFP): LBYL vs EAFP.
 34. [LenSplit](https://github.com/mattbrepo/LenSplit): A simple command-line tool to split a file in smaller chunks. 
 35. [LoadedCoinKellyCriterion](https://github.com/mattbrepo/LoadedCoinKellyCriterion): Simulation with a loaded coin.
 36. [MapReduceOnFiles](https://github.com/mattbrepo/MapReduceOnFiles): Test of [MapReduce idea](https://en.wikipedia.org/wiki/MapReduce) on text files. 
 37. [MathLibTest](https://github.com/mattbrepo/MathLibTest): Test of different C++ mathematical libraries.
 38. [MemorableExtensions](https://github.com/mattbrepo/MemorableExtensions): A collection of memorable [C# extensions](https://en.wikibooks.org/wiki/C_Sharp_Programming/Extension_methods).
-39. [MinimizeWithLimits](https://github.com/mattbrepo/MinimizeWithLimits): Minimize a function using distance limits
+39. [MinimizeWithLimits](https://github.com/mattbrepo/MinimizeWithLimits): Minimize a function using distance limits.
 40. [MoleculeGraph](https://github.com/mattbrepo/MoleculeGraph): Molecule Graph test using Kamada-Kawai and Fruchterman-Reingold algorithms.
 41. [MontyHallSimulation](https://github.com/mattbrepo/MontyHallSimulation): Simulation of the [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem).
 42. [NLPNaiveBayesClassifier](https://github.com/mattbrepo/NLPNaiveBayesClassifier): A simple [Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) for a [Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) problem.
@@ -70,22 +70,24 @@ My Github repositories index.
 62. [SonicPiTest](https://github.com/mattbrepo/SonicPiTest): Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi).
 63. [SortDutchProblem](https://github.com/mattbrepo/SortDutchProblem): Dutch national flag problem.
 64. [SudokuSolver](https://github.com/mattbrepo/SudokuSolver): Sudoku solver in Haskell.
-65. [TetrahedronText3D](https://github.com/mattbrepo/TetrahedronText3D): Tetrahedron with text for 3D printing
-66. [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
-67. [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/) with a [tkinter](https://docs.python.org/3/library/tkinter.html) gui.
-68. [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
-69. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python.
+65. [SymPyTest](https://github.com/mattbrepo/SymPyTest): Test of [SymPy](https://docs.sympy.org/) package.
+66. [TetrahedronText3D](https://github.com/mattbrepo/TetrahedronText3D): Tetrahedron with text for 3D printing
+67. [Tube3D](https://github.com/mattbrepo/Tube3D): Drawing 3D tubes with [Babylon.js](https://www.babylonjs.com/) using the LRA system and a bit of linear algebra.
+68. [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/) with a [tkinter](https://docs.python.org/3/library/tkinter.html) gui.
+69. [VectorsCheatSheet](https://github.com/mattbrepo/VectorsCheatSheet): Vectors Cheatsheet with [Babylon.js](https://www.babylonjs.com/).
+70. [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python.
 
 ## Ordered by year
 List: [2003](#2003), [2006](#2006), [2007](#2007), [2009](#2009), [2011](#2011), [2012](#2012), [2013](#2013), [2014](#2014), [2015](#2015), [2017](#2017), [2018](#2018), [2019](#2019), [2021](#2021), [2022](#2022), [2023](#2023), [2024](#2024)
 
 ### 2024
-- [LBYL_vs_EAFP](https://github.com/mattbrepo/LBYL_vs_EAFP): LBYL vs EAFP
-- [MinimizeWithLimits](https://github.com/mattbrepo/MinimizeWithLimits): Minimize a function using distance limits
+- [LBYL_vs_EAFP](https://github.com/mattbrepo/LBYL_vs_EAFP): LBYL vs EAFP.
+- [MinimizeWithLimits](https://github.com/mattbrepo/MinimizeWithLimits): Minimize a function using distance limits.
+- [SymPyTest](https://github.com/mattbrepo/SymPyTest): Test of [SymPy](https://docs.sympy.org/) package.
 
 ### 2023
 - [ChairAngles](https://github.com/mattbrepo/ChairAngles): A few calculations for a folding chair project.
-- [ClusterBinaryData](https://github.com/mattbrepo/ClusterBinaryData): Cluster on binary data (also using specific distances)
+- [ClusterBinaryData](https://github.com/mattbrepo/ClusterBinaryData): Cluster on binary data (also using specific distances).
 - [FastAPIDocker](https://github.com/mattbrepo/FastAPIDocker): A project to test [FastAPI](https://fastapi.tiangolo.com/) and [Docker](https://www.docker.com/).
 - [LoadedCoinKellyCriterion](https://github.com/mattbrepo/LoadedCoinKellyCriterion): Simulation with a loaded coin.
 - [PopulationSim](https://github.com/mattbrepo/PopulationSim): A simulation on a population using [Pygame](https://www.pygame.org/).
@@ -236,18 +238,18 @@ List: [C#](#c), [C/C++](#cc), [F#](#f), [Haskell](#haskell), [Java](#java), [Jav
 - [SimpleCRM](https://github.com/mattbrepo/SimpleCRM): A simple CRM project to test [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/).
 
 ### Pascal
-- [LBYL_vs_EAFP](https://github.com/mattbrepo/LBYL_vs_EAFP): LBYL vs EAFP
+- [LBYL_vs_EAFP](https://github.com/mattbrepo/LBYL_vs_EAFP): LBYL vs EAFP.
 
 ### Python
 - [ChairAngles](https://github.com/mattbrepo/ChairAngles): A few calculations for a folding chair project.
-- [ClusterBinaryData](https://github.com/mattbrepo/ClusterBinaryData): Cluster on binary data (also using specific distances)
+- [ClusterBinaryData](https://github.com/mattbrepo/ClusterBinaryData): Cluster on binary data (also using specific distances).
 - [CompileSite](https://github.com/mattbrepo/CompileSite): Simple static site generator in Python.
 - [Csv2h5p](https://github.com/mattbrepo/Csv2h5p): CSV to [H5P project](https://h5p.org/). Basically, it allows to create a H5P project starting from a CSV ("./data/input.tsv") containing the quiz data.
 - [Dcm (Document content manager)](https://github.com/mattbrepo/Dcm): This a [Document management system](https://en.wikipedia.org/wiki/Document_management_system) to store, label and search personal documents on a single computer. 
 - [EDAFilm](https://github.com/mattbrepo/EDAFilm): Exploratory data analysis ([EDA](https://en.wikipedia.org/wiki/Exploratory_data_analysis)) on film data.
 - [FastAPIDocker](https://github.com/mattbrepo/FastAPIDocker): A project to test [FastAPI](https://fastapi.tiangolo.com/) and [Docker](https://www.docker.com/).
 - [GraphTheoryStudies](https://github.com/mattbrepo/GraphTheoryStudies): Generate a table with graphs and related tables.
-- [MinimizeWithLimits](https://github.com/mattbrepo/MinimizeWithLimits): Minimize a function using distance limits
+- [MinimizeWithLimits](https://github.com/mattbrepo/MinimizeWithLimits): Minimize a function using distance limits.
 - [MontyHallSimulation](https://github.com/mattbrepo/MontyHallSimulation): Simulation of the [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem).
 - [NLPNaiveBayesClassifier](https://github.com/mattbrepo/NLPNaiveBayesClassifier): A simple [Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) for a [Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) problem.
 - [NewtonMethod](https://github.com/mattbrepo/NewtonMethod): Testing Newton's method (root-finding algorithm) in Python.
@@ -260,6 +262,7 @@ List: [C#](#c), [C/C++](#cc), [F#](#f), [Haskell](#haskell), [Java](#java), [Jav
 - [SQLStatementLength](https://github.com/mattbrepo/SQLStatementLength): Determine the length of a variable SQL statement.
 - [SVGPixelated](https://github.com/mattbrepo/SVGPixelated): SVG pixelated art in Python.
 - [SkypeMessagesDump](https://github.com/mattbrepo/SkypeMessagesDump): A simple utility to dump messages from Skype DB to a text file.
+- [SymPyTest](https://github.com/mattbrepo/SymPyTest): Test of [SymPy](https://docs.sympy.org/) package.
 - [TunnelWorkSim](https://github.com/mattbrepo/TunnelWorkSim): A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/) with a [tkinter](https://docs.python.org/3/library/tkinter.html) gui.
 - [Z3Python](https://github.com/mattbrepo/Z3Python): Test of [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) with Python.
 
